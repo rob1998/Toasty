@@ -1,6 +1,10 @@
 MIT License
 
+Copyright (c) 2012-2015 John Papa, Hans Fjällemark, Tim Ferrell
 Copyright (c) 2025 Rob Gökemeijer
+
+Based on the original Toastr library (https://github.com/CodeSeven/toastr),
+inspired by Notifer.js (https://github.com/Srirangan/notifer.js/).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
