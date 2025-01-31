@@ -19,7 +19,7 @@ It provides a modernized, object-oriented, vanilla JavaScript alternative to Toa
 ### Option 1: Download & Include in HTML
 
 ```html
-<link rel="stylesheet" href="toastr.min.css">
+<link rel="stylesheet" href="toasty.css">
 <script src="toasty.js"></script>
 ```
 
