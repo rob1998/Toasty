@@ -91,7 +91,7 @@ See [`LICENSE`](./LICENSE) for more details.
 - **Original Toastr Authors:**  
   - John Papa, Hans Fjällemark, Tim Ferrell  
   - ARIA Support: Greta Krafsig  
-- **Maintained & extended by:** [Your Name] (2024)  
+- **Maintained & extended by:** Rendar
 
 ---
 
